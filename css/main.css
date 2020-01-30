@@ -1,4 +1,20 @@
-img.log0 {
-  height: 10%;
-  width: 10%;
+a {
+  color: #199eda;
+}
+
+a:hover {
+  color: rgb(233, 206, 56);
+}
+
+.nav-pills .nav-link.active {
+  color: rgb(233, 206, 56);
+  background-color: #199eda;
+}
+
+.jumbotron {
+  background-image: url('img/goodtwo.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
 }
